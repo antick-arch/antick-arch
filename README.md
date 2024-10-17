@@ -9,8 +9,8 @@ www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followM
   
 ![Cyber Security Learning Path](https://github.com/antick-arch/antick-arch/assets/156878911/559a89c6-047a-41cc-a6d7-97e1ec560ba5)
 ![abe2ce05-31a6-4f90-a8ff-2b0cd4b6e3ae](https://github.com/antick-arch/antick-arch/assets/156878911/65d7a369-dfb2-4ab0-b881-595c85873cde)
+<!---![WhatsApp Image 2024-10-17 at 11 09 33 PM](https://github.com/user-attachments/assets/ea242ee6-34fd-45ef-98de-221f90f18d1d)
 
-<!---
 antick-arch/antick-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
