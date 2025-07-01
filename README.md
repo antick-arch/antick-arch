@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Computer and Communication Engineering
 - 💞️ I’m looking to collaborate on projects related to cybersecurity, deep learning applications, or research endeavors.
 - 📫 You can reach me through email at (antickroy018@gmail.com) 
-e=PEOPLE_FOLLOWS&followMember=antick-chandra-kuri-941b532b3
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving puzzles and riddles in my free time!
   
